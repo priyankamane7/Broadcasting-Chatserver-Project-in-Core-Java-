@@ -15,9 +15,13 @@ MyServer.java: Java source file for the server, responsible for handling multipl
 Client and Server Class Files:
 
 MyClient.class, MyClient$1.class, MyClient$2.class: Compiled client classes with inner classes to handle GUI or user interactions.
+
 MyServer.class: Compiled server class for managing client connections and message broadcasting.
+
 ClientThread.class: Manages individual client threads on the server side.
+
 MyThread.class: Additional threading support, likely used for client-server communication.
+
 temp.txt: Temporary file, may contain sample configurations or logs.
 
 Prerequisites
